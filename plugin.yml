@@ -1,0 +1,4 @@
+name: NightSky
+main: steeveeo.NightSky.NightSky
+version: 0.1
+load: startup
